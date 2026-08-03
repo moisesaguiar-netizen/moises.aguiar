@@ -1,0 +1,14 @@
+header{
+    background-color: aqua;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: chocolate(21,0,206);
+    font-size: 22px;
+    font-weight: bold;
+}
