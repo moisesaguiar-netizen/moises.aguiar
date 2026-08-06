@@ -21,6 +21,9 @@ nav a{
 }
 nav{
     position: absolute;
-    top: 80px;
+    top: 70px;
     right: 0;
+}
+h1 img{
+    width: 150px;
 }
