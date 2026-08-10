@@ -27,3 +27,21 @@ nav{
 h1 img{
     width: 150px;
 }
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 1.5%;
+    padding: 30px 20px;
+   box-sizing: border-box;
+}
+.servicos h2{
+    font-family: 30px;
+    font-weight: bold;
+}
