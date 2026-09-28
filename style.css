@@ -1,13 +1,13 @@
-header{
+.header{
     background-color: aqua(255,51,0);
     height:150px ;
     padding: 20px 0;
 }
-nav li{
+.nav li{
     display: inline;
     margin: 0 0 0 15px;
 }
-nav a{
+.nav a{
     text-decoration: none;
     text-transform: uppercase;
     color: chocolate(21,0,206);
@@ -19,12 +19,12 @@ nav a{
     width:940px ;
     margin: 0 auto;
 }
-nav{
+.nav{
     position: absolute;
     top: 70px;
     right: 0;
 }
-h1 img{
+.h1 img{
     width: 150px;
 }
 .servicos{
@@ -61,26 +61,26 @@ text-align: center;
 background-color: rgb(255,51,0);
 padding: 40px 0;
 }
-footer img{
+.footer img{
     width: 50px;
     margin-bottom: 20px;
 }
-footer p{
+.footer p{
     color: white;
 }
-main {
+.main {
     width: 940px;
     margin: 0 auto;
 }
-form {
+.form {
     margin: 40px 0;
 }
-form label{
+.form label{
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
 }
-form input{
+.form input{
     display: block;
     margin: 0 0 20 px;
     padding: 10px 25px;
